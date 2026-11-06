@@ -1,8 +1,0 @@
-# ninja log v7
-4	139	8157021192364092	src/CMakeFiles/ratexpr.dir/fraction.cpp.obj	1aaa53ef94455087
-18	141	8157021192512663	src/CMakeFiles/ratexpr.dir/expression.cpp.obj	ef5dd2a03e36ff05
-24	150	8157021192567844	apps/CMakeFiles/demo_fraction.dir/demo_fraction.cpp.obj	7a13528ce95b6e7c
-30	154	8157021192633098	apps/CMakeFiles/demo_expression.dir/demo_expression.cpp.obj	31f8494cf7e44a37
-141	223	8157021193734742	src/libratexpr.a	d0c76140ed8c00f3
-232	379	8157021194648321	apps/demo_expression.exe	57f5052fd2e07d5e
-223	379	8157021194557982	apps/demo_fraction.exe	50de7b49b1c9b208

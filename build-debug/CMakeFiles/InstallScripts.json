@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/dev/kdz2-fokin/build-debug/cmake_install.cmake",
-		"C:/dev/kdz2-fokin/build-debug/src/cmake_install.cmake",
-		"C:/dev/kdz2-fokin/build-debug/apps/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
