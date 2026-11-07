@@ -36,6 +36,6 @@ Windows:
 ```
 
 ```
-./build-release/apps/demo_fraction
-./build-release/apps/demo_expression
+.\build-release\apps\demo_fraction.exe
+..\build-release\apps\demo_expression.exe
 ```
